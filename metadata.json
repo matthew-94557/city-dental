@@ -1,0 +1,6 @@
+{
+  "name": "City Dental",
+  "description": "Experience comfortable, modern dental care at City Dental. Our responsive landing page features services, smiling client stories, lead dentist credentials, a high-end gallery, and an interactive reservation form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
